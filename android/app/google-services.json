@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259278528340",
+    "project_id": "fullstore-ace88",
+    "storage_bucket": "fullstore-ace88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259278528340:android:de6435953dd404128932c1",
+        "android_client_info": {
+          "package_name": "com.example.full_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEy0Z18ujka3SLc0nNGDg4wlUyr7sSGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
